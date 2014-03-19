@@ -1,5 +1,5 @@
 <?php
-//echo(__FILE__);
+echo("<br>OCP: Open/Closed Principle<br>");
 include_once("../interface/LoanApprovalHandler.php");
 
 $lah = new LoanApprovalHandler();
